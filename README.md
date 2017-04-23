@@ -1,1 +1,1 @@
-# Bipt-triangle
+# bipt-triangle
